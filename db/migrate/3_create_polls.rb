@@ -3,6 +3,7 @@ class CreatePolls < ActiveRecord::Base
     create_table :polls do |p|
       p.string :name
       p.boolean :is_decided
-      p.date :date    
+      p.date :date   
+    end
   end
 end
