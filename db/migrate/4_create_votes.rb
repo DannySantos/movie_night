@@ -1,4 +1,4 @@
-class CreateVotes < ActiveRecord::Base
+class CreateVotes < ActiveRecord::Migration
   def change
     
   end
