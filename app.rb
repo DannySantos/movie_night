@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Movie Night!"
+  "Movie Night! by Dafin, Danny and Tamlyn"
 end
