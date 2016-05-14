@@ -5,5 +5,6 @@ class CreateMovies < ActiveRecord::Base
     	t.integer :year
     	t.string :genre
     	t.boolean :has_been_watched
+    end
   end
 end
